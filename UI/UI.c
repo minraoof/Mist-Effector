@@ -40,7 +40,7 @@ BYTE g_UI_PiezoPowerDutyCycleOff[] = {68,66,64,62,60,58,56,54,
 									20,18,16,14,12,10, 8, 6,
 									4,0};
 WORD g_UI_DutyIndex = 0;
-unsigned char g_UI_PWMStatus = FALSE;
+BYTE g_UI_PWMStatus = FALSE;
 
 //*****************************************************************************
 // FUNCTION DEFINITION
